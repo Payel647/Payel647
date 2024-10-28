@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently I am studying at Makaut,wb B.tech IT 2nd year . Through course work and self study I gain proficiency in some programming language like Html,Css, Javascript,DSA with C++,C and I want to learn lots of things.
+I am a B.Tech IT student passionate about exploring the dynamic world of Information Technology. Eager to develop a strong foundation in programming, networking, and software development.I am actively seeking opportunities to expand my knowledge and skills.I am Currently studying at Makaut,wb. Through coursework and self-study, I am gaining proficiency in some programming languages.I’m excited to explore emerging areas like AI, web development, and cybersecurity.
+Let's connect and discuss how we can collaborate and learn together.✨✨
 
 
 ## 🌐 Socials:
