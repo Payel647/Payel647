@@ -24,7 +24,7 @@ Let's connect and discuss how we can collaborate and learn together.✨✨
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-###  MY BADGES
+###  ✨✨ MY BADGES
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
