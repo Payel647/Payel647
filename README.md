@@ -18,13 +18,7 @@ Let's connect and discuss how we can collaborate and learn together.✨✨
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Payel647&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Payel647&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Payel647&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Payel647&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## ✨✨GSSOC(24) Badges 🪶 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -41,5 +35,3 @@ Let's connect and discuss how we can collaborate and learn together.✨✨
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-
-[![An image of @payel647's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/payel647)](https://holopin.io/@payel647)
