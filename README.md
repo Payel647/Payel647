@@ -1,6 +1,6 @@
 ## 💫 About Me:
 <p align="center">
-  <img src="https://github.com/Payel647/Payel647/raw/main/Img.jpg" alt="Girl coding" width="360"/>
+  <img src="https://github.com/Payel647/Payel647/raw/main/lec.jpg" alt="Girl coding" width="360"/>
 </p>
 I am a B.Tech IT student passionate about exploring the dynamic world of Information Technology.I’m an aspiring Software Engineer who loves solving challenging DSA problems and building creative projects.
 Passionate about exploring new technologies, turning ideas into reality, and constantly leveling up my skills.
